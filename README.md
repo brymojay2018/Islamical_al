@@ -1,0 +1,1 @@
+Islamical is a web application that allow muslim practicising islam to know the meaning to each of the 99 names of Almighty Allah. It is built with the logic of search for a names and also names suggestions based on user first letter input
